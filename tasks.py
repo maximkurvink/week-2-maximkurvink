@@ -52,7 +52,7 @@ def MSE_func(w, X, y): # give the appropriate name and arguments
 # a vector x that stores values of the independent variable, and a vector y that stores
 # the values of the dependent variable and should return an np.array() that has the derivative values
 # as its components.
-# The name of the function should be dR.
+# The name of the function should be dR..
  
 # Copy and paste the code for that function here:
 # -----------------------------------------------
