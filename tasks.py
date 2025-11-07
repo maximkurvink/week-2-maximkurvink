@@ -3,7 +3,7 @@ import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
 from scipy.optimize import minimize  # Python version of R's optim() function
 from sklearn import datasets
  
-# Carry out the exercises in your own copy of the notebook that you can find at
+# tfhgdfCarry out the exercises in your own copy of the notebook that you can find at
 #    https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent.
 # Then copy and paste code asked for below in between the dashed lines.
 # Do not import additional packages.
